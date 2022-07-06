@@ -5,6 +5,8 @@ apt install -y vim
 apt install -y php
 apt install -y net-tools
 apt install php-mysqli
+apt install -y mysql-server
+apt install -y mysql-client
 
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 apt install ./google-chrome-stable_current_amd64.deb
